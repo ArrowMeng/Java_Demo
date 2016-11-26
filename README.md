@@ -1,2 +1,2 @@
 # Java_Demo
-Java Demo Source for test
+Java Demo Source for study
